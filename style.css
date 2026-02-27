@@ -61,8 +61,8 @@ nav button{
     padding: 30px;
 }
 .separation{
-    height: 9px; ;
-    background-color:grey;
+    height: 3px; ;
+    background-color:rgb(62, 59, 59);
 }
 .btn{
     padding: 3px ,8px;
@@ -137,6 +137,7 @@ nav button{
     
 
 }
+
 .secImg video{
     position: absolute;
     top: 51px;
@@ -152,9 +153,34 @@ section.first > div{
     flex-direction: column;
 }
 section.first > div :nth-child(1){
-    font-size: 48px;
+    font-size: 38px;
     font-weight: bolder;
 }
 section.first > div :nth child (2){
     font-size: 24px;
+}
+.faq{
+    background: black;
+    color: white;
+    padding: 34px;
+    
+}
+.faqbox:hover{
+    background-color: #414141;
+    transition: all ;
+    color: white;
+}
+.faq h2{
+    text-align: center;
+    font-size: 28px;
+}
+.faqbox {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2d2d2d;
+    padding: 20px;
+    max-width: 60vw;
+    margin: 10px auto;
+
 }
