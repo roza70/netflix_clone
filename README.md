@@ -1,7 +1,9 @@
 **Just an simple frontend project ,HTML and CSS for UI
 **Responsive 
 
-Land page -Scrrenshot
+Land page -Screenshot
+</hr>
+
 
 <img width="1900" height="794" alt="land-page" src="https://github.com/user-attachments/assets/47e91e4e-bceb-42c7-8a81-b7bced1dbfb4" />
 
